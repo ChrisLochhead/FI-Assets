@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Fonts/OrbitronTitle.spritefont</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/gameFont.spritefont</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/MainMenu.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Main menu/Background.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Main menu/Foreground.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Main menu/Campaign.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Main menu/Conquest.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Main menu/Headquarters.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Main menu/Settings.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Conquest menu/background.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Conquest menu/foreground.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Conquest menu/bottombar.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Conquest menu/factionanalysis.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Conquest menu/header.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Conquest menu/projector.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Conquest menu/projectormap.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Conquest menu/smallbutton.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Conquest menu/startbutton.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Conquest menu/buttoncontainer.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Conquest menu/widebutton.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Conquest menu/widebuttonbright.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Conquest menu/backbutton.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Conquest menu/loadbutton.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/MainBackground.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/BackgroundMask.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/ship_battle_background.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/conquest_map.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Araxia.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Arcvale.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Astrin.jpg</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Aurora.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Boreal.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Calderon.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Corinthos.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Dostoin.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Dravena.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Eilyra.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Eurydice.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Falun.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Horizon.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Jaiyuan.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Kharune.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Kharvin.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/New Earth.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Nexisse.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Novara.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Radek.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Rexis.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Serrat.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Stellaron.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Sundermark.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Thalassa Minor.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Varran.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Varran_Original.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Ventora.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Zamok.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Zorya.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/World Maps/Zvezda.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Backgrounds/Battlefields/Normal 1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Battleship.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Battleship_damaged_1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Battleship_damaged_2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Shield.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Super Carrier.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Super Carrier_damaged_1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Super Carrier_damaged_2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Shield.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Cruiser.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Cruiser_damaged_1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Cruiser_damaged_2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Shield.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Frigate.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Frigate_damaged_1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Frigate_damaged_2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Shield.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Corvette.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Corvette_damaged_1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Corvette_damaged_2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Shield.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/9.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/10.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/11.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/12.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/13.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/14.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/15.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/16.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/17.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/18.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/19.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/20.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/21.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/22.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/23.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/24.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/25.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/26.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/27.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/28.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/29.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Planets/30.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Resources/Credits.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Resources/Energy.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Resources/Fleets.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Resources/Food.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Resources/Metal.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Resources/planets.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Resources/ATK.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Resources/DEF.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Resources/HP.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Resources/Ship Expertise.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Resources/Artillery Expertise.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Resources/Armoured Expertise.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Resources/Infantry Expertise.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Flags/6.jpg</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Flags/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Flags/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Flags/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Flags/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Flags/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Flags/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Flags/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Flags/9.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Flags/10.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Emblems/Armoured Vehicle Depot.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Emblems/Artillery Depot.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Emblems/Barracks.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Emblems/Cities.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Emblems/Commercial.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Emblems/Farm.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Emblems/Fuel Refinery.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Emblems/Heavy Industry.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Emblems/Light Industry.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Emblems/Shields.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Emblems/Shipyard.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Morale Up.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Morale Down.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Confusion.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Fleets/small.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Fleets/medium.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Fleets/large.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/HUD/Planet.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/HUD/Fleet.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/HUD/Research.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/HUD/Diplomacy.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/HUD/Generals.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Lazer/Lazer 1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Lazer/Lazer 2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Lazer/Lazer 3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Lazer/Lazer 4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Nuke/Nuke 2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Rod/Rod 4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Fighter.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Explosion/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Explosion/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Explosion/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Explosion/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Explosion/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Explosion/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Explosion/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Explosion/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Explosion/9.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Explosion/10.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Smoke 1/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Smoke 1/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Smoke 1/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Smoke 1/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Smoke 2/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Smoke 2/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Smoke 2/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Smoke 2/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Smoke 2/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Smoke 3/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Smoke 3/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Smoke 3/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Smoke 3/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Smoke 3/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Exhaust/Basic/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Exhaust/Basic/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Exhaust/Basic/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Exhaust/Basic/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Exhaust/Basic/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Exhaust/Basic/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Exhaust/Basic/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Exhaust/Basic/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Exhaust/Upgraded/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Exhaust/Upgraded/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Exhaust/Upgraded/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Exhaust/Upgraded/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Exhaust/Upgraded/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Exhaust/Upgraded/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Exhaust/Upgraded/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Accessories/Exhaust/Upgraded/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Farm/small.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Farm/medium.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Farm/large.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Fuel Refinery/small.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Fuel Refinery/medium.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Fuel Refinery/large.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Heavy Industry/small.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Heavy Industry/medium.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Heavy Industry/large.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Light Industry/small.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Light Industry/medium.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Light Industry/large.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Armoured Vehicle Depot/small.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Armoured Vehicle Depot/medium.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Armoured Vehicle Depot/large.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Artillery Depot/small.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Artillery Depot/medium.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Artillery Depot/large.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Barracks/small.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Barracks/medium.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Barracks/large.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Commercial/small.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Commercial/medium.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Commercial/large.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Shields/small.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Shields/medium.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Shields/large.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Shipyard/small.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Shipyard/medium.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Shipyard/large.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Army.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Army Highlight.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Empty Building Slot.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Landing Slot.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Node.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Clouds/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Clouds/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Clouds/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Clouds/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Clouds/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Clouds/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Clouds/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Clouds/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Clouds/9.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Clouds/10.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Clouds/11.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Clouds/12.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Clouds/13.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground Map Resources/Clouds/14.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Node.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Moons/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Moons/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Moons/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Moons/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from static 1/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from static 1/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from static 1/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from static 1/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from static 1/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from static 1/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from static 2/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from static 2/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from static 2/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from static 2/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from static 2/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from static 2/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from nothing/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from nothing/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from nothing/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from nothing/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from nothing/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from nothing/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from nothing/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Animation from nothing/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Small nebula/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Small nebula/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Small nebula/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Small nebula/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Small nebula/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Small nebula/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Small nebula/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Small nebula/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/Small nebula/9.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/large nebula/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/large nebula/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/large nebula/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/large nebula/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/large nebula/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/large nebula/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/large nebula/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/large nebula/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Galaxy Map Resources/large nebula/9.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Artillery/Kinetic Lancer.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Artillery/Percussive Lithium Artillery.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Artillery/Directed Energy Ballista.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Artillery/Veteran Ballista.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Infantry/Marines.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Infantry/Grenadiers.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Infantry/ShockTroopers.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Infantry/SuperSoldiers.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Tanks/Light Tank.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Tanks/Medium Tank.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Tanks/Heavy Tank.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Tanks/Titan Tank.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Infantry/Field units/Marines1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Infantry/Field units/Marines2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Infantry/Field units/Grenadiers1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Infantry/Field units/Grenadiers2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Infantry/Field units/ShockTroopers1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Infantry/Field units/ShockTroopers2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Infantry/Field units/SuperSoldiers1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Infantry/Field units/SuperSoldiers2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Accessories/Muzzle Flash.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Accessories/Muzzle Flash/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Accessories/Muzzle Flash/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Accessories/Muzzle Flash/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Accessories/Muzzle Flash/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Accessories/Muzzle Flash/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Accessories/Muzzle Flash/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Artillery/Field units/Kinetic Lancer Top.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Artillery/Field units/Kinetic Lancer Bottom.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Artillery/Field units/Percussive Lithium Artillery Top.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Artillery/Field units/Percussive Lithium Artillery Bottom.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Artillery/Field units/Directed Energy Ballista Top.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Artillery/Field units/Directed Energy Ballista Bottom.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Artillery/Field units/Veteran Ballista Top.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Artillery/Field units/Veteran Ballista Bottom.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Tanks/Field Units/Light Tank Top.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Tanks/Field Units/Light Tank Bottom.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Tanks/Field Units/Medium Tank Top.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Tanks/Field Units/Medium Tank Bottom.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Tanks/Field Units/Heavy Tank Top.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Tanks/Field Units/Heavy Tank Bottom.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Tanks/Field Units/Titan Tank Top.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ground units/Tanks/Field Units/Titan Tank Bottom.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Cities/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Cities/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Cities/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Cities/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Buildings/Cities/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Federation/Alric Vale.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Federation/Blake Arden.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Federation/Border.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Federation/Finlay Graye.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Federation/Grant Arden.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Federation/Harper Vale.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Federation/Morgan Stroud.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Federation/Quinn Mercer.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Federation/Rhett Calder.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Federation/Riley Maddox.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Federation/Rowan Cross.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Federation/Skyler Hale.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Federation/Super Soldier.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Federation/Zeynep Asher.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/USS/Andrei Volkovic.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/USS/Border.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/USS/Dmitri Ralchen.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/USS/Fengxian.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/USS/Hao Jinxun.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/USS/Igor Koresha.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/USS/Irina Solvak.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/USS/Mikhail Draev.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/USS/Nikya Volen.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/USS/Sasha Korin.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/USS/Serin Markov.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/USS/Super Soldier.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/USS/Viktoria Kasev.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/USS/Yara McArthur.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/USS/Zhen Kailong.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Araxic Union/border.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Araxic Union/Dorian Quell.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Araxic Union/Elira Vantt.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Araxic Union/Kaelis Dax.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Araxic Union/Luka Bael.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Araxic Union/Lysander Corth.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Araxic Union/Marek Kaelo.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Araxic Union/Marielle Strass.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Araxic Union/Odrin Falco.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Araxic Union/Rhona Jinn.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Araxic Union/Selko Riven.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Araxic Union/Super Soldier.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Araxic Union/Tavian Holt.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Araxic Union/Yvette Roan.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Araxic Union/Zoran Vost.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/CommonWealth/Anja Kovre.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/CommonWealth/Border.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/CommonWealth/Boros Envik.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/CommonWealth/Davor Trellic.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/CommonWealth/Elira Nasmir.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/CommonWealth/Jarek Belmin.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/CommonWealth/Jovan Teris.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/CommonWealth/Kasper Vaneck.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/CommonWealth/Lira Ostrev.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/CommonWealth/Milan Vostek.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/CommonWealth/Sanja Velorin.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/CommonWealth/Super Soldier.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/CommonWealth/Tessa Drovin.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/CommonWealth/Valeska Belor.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/CommonWealth/Zora Kaelin.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Kharvin/border.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Kharvin/Elina Korvek.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Kharvin/Ilya Santor.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Kharvin/Kara Vesh.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Kharvin/Lev Anerin.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Kharvin/Maran Oliev.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Kharvin/Mateo Arsen.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Kharvin/Milos Thorne.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Kharvin/Rafa Solmir.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Kharvin/Soren Kast.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Kharvin/Super Soldier.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Kharvin/Talia Serik.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Kharvin/Vera Dravik.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Kharvin/Vespera Zale.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Kharvin/Viktor Gantz.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Varran/background.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Varran/Belar Tarn.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Varran/Donin Harvek.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Varran/Eliar Vane.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Varran/Jara Tennik.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Varran/Kaelen Voss.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Varran/Kala Rishar.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Varran/Lysa Vorren.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Varran/Marek Solven.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Varran/Rhea Malcor.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Varran/Riven Castor.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Varran/Selia Marett.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Varran/Sora Tallen.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Varran/Super Soldier.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Varran/Torren Krell.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Anahita Javidan.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Belar Tarn.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/border.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Donin Harvek.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Eliar Vane.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Farouk Delram.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Hafiz Moradan.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Idris Valoran.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Jaro Tennik.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Kaelen Voss.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Kala Rishar.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Laleh Samarin.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Lysa Vorren.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Maalik Turein.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Marek Solven.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Nadim Qasiri.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Nasrin Ghalib.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Omara Daryem.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Rashid Al-Khazen.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Rhea Malcor.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Selia Marett.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Sora Tallen.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Soraya Belqen.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Super Soldier.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Torren Krell.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Ilyra/Zayn El-Hariri.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Nexal Meridian/background.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Nexal Meridian/Cassian Wu.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Nexal Meridian/Jaren Tok.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Nexal Meridian/Juno Feng.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Nexal Meridian/Kaelo Vance.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Nexal Meridian/Keira Tan.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Nexal Meridian/Lyran Han.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Nexal Meridian/Malik Torel.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Nexal Meridian/Orin Loram.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Nexal Meridian/Ronan Hale.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Nexal Meridian/Sela Rhee.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Nexal Meridian/Serra Lind.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Nexal Meridian/Super Soldier.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Nexal Meridian/Tavish Loram.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Nexal Meridian/Zander Kim.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Cult of Falun/Astra Velcar.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Cult of Falun/background.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Cult of Falun/Caius Mordane.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Cult of Falun/Cassian Aldaro.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Cult of Falun/Elvira Senac.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Cult of Falun/Hector Varrin.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Cult of Falun/Isela Dragor.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Cult of Falun/Liora Vane.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Cult of Falun/Marcos Rulven.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Cult of Falun/Roderic Talvos.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Cult of Falun/super soldier.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Cult of Falun/Taviar Rusk.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Cult of Falun/Varick Thorne.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Characters/Cult of Falun/Vorian Krell.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris/10.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris/11.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris/12.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris/13.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris/14.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris/15.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris/16.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris/17.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris/9.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris_Upgraded/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris_Upgraded/10.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris_Upgraded/11.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris_Upgraded/12.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris_Upgraded/13.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris_Upgraded/14.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris_Upgraded/15.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris_Upgraded/16.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris_Upgraded/17.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris_Upgraded/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris_Upgraded/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris_Upgraded/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris_Upgraded/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris_Upgraded/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris_Upgraded/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris_Upgraded/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Debris_Upgraded/9.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Debris/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Debris/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Debris/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Debris/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Debris/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Debris/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Debris/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Debris/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Debris/9.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Debris_Upgraded/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Debris_Upgraded/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Debris_Upgraded/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Debris_Upgraded/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Debris_Upgraded/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Debris_Upgraded/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Debris_Upgraded/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Debris_Upgraded/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris/10.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris/11.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris/9.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris_Upraded/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris_Upraded/10.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris_Upraded/11.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris_Upraded/12.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris_Upraded/13.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris_Upraded/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris_Upraded/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris_Upraded/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris_Upraded/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris_Upraded/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris_Upraded/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris_Upraded/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Debris_Upraded/9.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris/10.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris/11.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris/12.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris/13.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris/9.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris_Upgraded/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris_Upgraded/10.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris_Upgraded/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris_Upgraded/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris_Upgraded/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris_Upgraded/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris_Upgraded/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris_Upgraded/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris_Upgraded/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Debris_Upgraded/9.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Debris/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Debris/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Debris/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Debris/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Debris/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Debris/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Debris/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Debris/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Upgraded_Debris/1.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Upgraded_Debris/10.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Upgraded_Debris/11.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Upgraded_Debris/12.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Upgraded_Debris/2.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Upgraded_Debris/3.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Upgraded_Debris/4.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Upgraded_Debris/5.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Upgraded_Debris/6.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Upgraded_Debris/7.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Upgraded_Debris/8.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/Upgraded_Debris/9.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Battleship/Battleship_Upgraded.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Corvette/Corvette_Upgraded.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Cruiser/Cruiser_Upgraded.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Frigate/Frigate_Upgraded.png</File>
+    <File>C:/Users/Chris/Desktop/Desktop/PhDProject/AI_Game/GalacticConquest/Content/Ships/Super Carrier/SuperCarrier_Upgraded.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

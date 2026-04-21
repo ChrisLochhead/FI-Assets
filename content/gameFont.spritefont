@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics">
+  <Asset Type="Graphics:FontDescription">
+    <FontName>Roboto</FontName>
+    <Size>24</Size>
+    <Spacing>0</Spacing>
+    <UseKerning>true</UseKerning>
+    <Style>Bold</Style>
+    <CharacterRegions>
+      <CharacterRegion>
+        <Start>&#32;</Start>
+        <End>&#126;</End>
+      </CharacterRegion>
+      <!-- Include Pound Sterling symbol (£) -->
+      <CharacterRegion>
+        <Start>&#163;</Start>
+        <End>&#163;</End>
+      </CharacterRegion>
+      <!-- En-dash and Em-dash -->
+      <CharacterRegion>
+        <Start>&#8211;</Start>
+        <End>&#8212;</End>
+      </CharacterRegion>
+      <!-- Smart single quotes -->
+      <CharacterRegion>
+        <Start>&#8216;</Start>
+        <End>&#8217;</End>
+      </CharacterRegion>
+      <!-- Smart double quotes -->
+      <CharacterRegion>
+        <Start>&#8220;</Start>
+        <End>&#8221;</End>
+      </CharacterRegion>
+      <!-- Horizontal ellipsis -->
+      <CharacterRegion>
+        <Start>&#8230;</Start>
+        <End>&#8230;</End>
+      </CharacterRegion>
+    </CharacterRegions>
+  </Asset>
+</XnaContent>
