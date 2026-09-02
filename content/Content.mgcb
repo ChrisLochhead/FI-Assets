@@ -1586,6 +1586,18 @@
 /processorParam:TextureFormat=Color
 /build:Flags/10.png
 
+#begin Flags/Rebels.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Flags/Rebels.png
+
 #begin Buildings/Emblems/Armoured Vehicle Depot.png
 /importer:TextureImporter
 /processor:TextureProcessor
