@@ -1,0 +1,370 @@
+{
+  "name": "space_battle",
+  "padding": 2,
+  "pages": [
+    {
+      "name": "space_battle",
+      "width": 1936,
+      "height": 1930,
+      "sprites": [
+        {
+          "name": "Ships/Accessories/Exhaust/Upgraded/8",
+          "x": 0,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Exhaust/Upgraded/7",
+          "x": 514,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Morale Up",
+          "x": 1028,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Morale Down",
+          "x": 0,
+          "y": 514,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Confusion",
+          "x": 514,
+          "y": 514,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Exhaust/Basic/1",
+          "x": 1028,
+          "y": 514,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Exhaust/Basic/2",
+          "x": 0,
+          "y": 1028,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Exhaust/Basic/3",
+          "x": 514,
+          "y": 1028,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Exhaust/Basic/4",
+          "x": 1028,
+          "y": 1028,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Smoke 3/5",
+          "x": 1542,
+          "y": 1028,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Smoke 3/4",
+          "x": 0,
+          "y": 1542,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Explosion/1",
+          "x": 258,
+          "y": 1542,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Smoke 3/2",
+          "x": 516,
+          "y": 1542,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Explosion/2",
+          "x": 774,
+          "y": 1542,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Explosion/3",
+          "x": 1032,
+          "y": 1542,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Explosion/4",
+          "x": 1290,
+          "y": 1542,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Explosion/5",
+          "x": 1548,
+          "y": 1542,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Lazer/Lazer 4",
+          "x": 1806,
+          "y": 1542,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Ships/Accessories/Lazer/Lazer 3",
+          "x": 0,
+          "y": 1800,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Ships/Accessories/Lazer/Lazer 2",
+          "x": 130,
+          "y": 1800,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Ships/Accessories/Lazer/Lazer 1",
+          "x": 260,
+          "y": 1800,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Ships/Accessories/Rod/Rod 4",
+          "x": 390,
+          "y": 1800,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Ships/Accessories/Nuke/Nuke 2",
+          "x": 520,
+          "y": 1800,
+          "w": 128,
+          "h": 128
+        }
+      ]
+    },
+    {
+      "name": "space_battle_2",
+      "width": 1806,
+      "height": 1800,
+      "sprites": [
+        {
+          "name": "Ships/Accessories/Exhaust/Basic/5",
+          "x": 0,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Exhaust/Basic/7",
+          "x": 514,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Exhaust/Basic/8",
+          "x": 1028,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Exhaust/Upgraded/1",
+          "x": 0,
+          "y": 514,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Exhaust/Upgraded/2",
+          "x": 514,
+          "y": 514,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Exhaust/Upgraded/3",
+          "x": 1028,
+          "y": 514,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Exhaust/Upgraded/4",
+          "x": 0,
+          "y": 1028,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Exhaust/Upgraded/5",
+          "x": 514,
+          "y": 1028,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Exhaust/Upgraded/6",
+          "x": 1028,
+          "y": 1028,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Explosion/6",
+          "x": 1542,
+          "y": 1028,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Explosion/7",
+          "x": 0,
+          "y": 1542,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Explosion/8",
+          "x": 258,
+          "y": 1542,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Explosion/9",
+          "x": 516,
+          "y": 1542,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Explosion/10",
+          "x": 774,
+          "y": 1542,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Smoke 1/1",
+          "x": 1032,
+          "y": 1542,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Smoke 1/2",
+          "x": 1290,
+          "y": 1542,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Smoke 3/3",
+          "x": 1548,
+          "y": 1542,
+          "w": 256,
+          "h": 256
+        }
+      ]
+    },
+    {
+      "name": "space_battle_3",
+      "width": 1804,
+      "height": 772,
+      "sprites": [
+        {
+          "name": "Ships/Accessories/Exhaust/Basic/6",
+          "x": 0,
+          "y": 0,
+          "w": 512,
+          "h": 512
+        },
+        {
+          "name": "Ships/Accessories/Smoke 1/3",
+          "x": 514,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Smoke 2/1",
+          "x": 772,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Smoke 2/2",
+          "x": 1030,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Smoke 2/3",
+          "x": 1288,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Smoke 2/4",
+          "x": 1546,
+          "y": 0,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Smoke 2/5",
+          "x": 0,
+          "y": 514,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Smoke 3/1",
+          "x": 258,
+          "y": 514,
+          "w": 256,
+          "h": 256
+        },
+        {
+          "name": "Ships/Accessories/Smoke 1/4",
+          "x": 516,
+          "y": 514,
+          "w": 256,
+          "h": 256
+        }
+      ]
+    }
+  ]
+}

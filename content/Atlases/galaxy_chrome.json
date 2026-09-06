@@ -1,0 +1,167 @@
+{
+  "name": "galaxy_chrome",
+  "padding": 2,
+  "pages": [
+    {
+      "name": "galaxy_chrome",
+      "width": 1964,
+      "height": 1764,
+      "sprites": [
+        {
+          "name": "Galaxy Map Resources/Moons/4",
+          "x": 0,
+          "y": 0,
+          "w": 850,
+          "h": 750
+        },
+        {
+          "name": "Galaxy Map Resources/Moons/2",
+          "x": 852,
+          "y": 0,
+          "w": 850,
+          "h": 750
+        },
+        {
+          "name": "Galaxy Map Resources/Moons/1",
+          "x": 0,
+          "y": 752,
+          "w": 850,
+          "h": 750
+        },
+        {
+          "name": "Galaxy Map Resources/Moons/3",
+          "x": 852,
+          "y": 752,
+          "w": 850,
+          "h": 750
+        },
+        {
+          "name": "Galaxy Map Resources/large nebula/9",
+          "x": 1704,
+          "y": 752,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Galaxy Map Resources/large nebula/8",
+          "x": 1834,
+          "y": 752,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Galaxy Map Resources/large nebula/7",
+          "x": 0,
+          "y": 1504,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Galaxy Map Resources/large nebula/6",
+          "x": 130,
+          "y": 1504,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Galaxy Map Resources/large nebula/5",
+          "x": 260,
+          "y": 1504,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Galaxy Map Resources/large nebula/4",
+          "x": 390,
+          "y": 1504,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Galaxy Map Resources/large nebula/3",
+          "x": 520,
+          "y": 1504,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Galaxy Map Resources/large nebula/2",
+          "x": 650,
+          "y": 1504,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Galaxy Map Resources/Small nebula/9",
+          "x": 780,
+          "y": 1504,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Galaxy Map Resources/Small nebula/8",
+          "x": 910,
+          "y": 1504,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Galaxy Map Resources/Small nebula/7",
+          "x": 1040,
+          "y": 1504,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Galaxy Map Resources/Small nebula/6",
+          "x": 1170,
+          "y": 1504,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Galaxy Map Resources/Small nebula/5",
+          "x": 1300,
+          "y": 1504,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Galaxy Map Resources/Small nebula/4",
+          "x": 1430,
+          "y": 1504,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Galaxy Map Resources/Small nebula/3",
+          "x": 1560,
+          "y": 1504,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Galaxy Map Resources/Small nebula/2",
+          "x": 1690,
+          "y": 1504,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Galaxy Map Resources/large nebula/1",
+          "x": 1820,
+          "y": 1504,
+          "w": 128,
+          "h": 128
+        },
+        {
+          "name": "Galaxy Map Resources/Small nebula/1",
+          "x": 0,
+          "y": 1634,
+          "w": 128,
+          "h": 128
+        }
+      ]
+    }
+  ]
+}
