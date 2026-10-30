@@ -7779,7 +7779,7 @@
 /processorParam:TextureFormat=Compressed
 /build:Tactics and Skills/Entrap.png
 
-#begin Tactics and Skills/Defensive Matrix.png
+#begin Tactics and Skills/Steadfast Matrix.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -7789,9 +7789,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Compressed
-/build:Tactics and Skills/Defensive Matrix.png
+/build:Tactics and Skills/Steadfast Matrix.png
 
-#begin Tactics and Skills/Diffusion.png
+#begin Tactics and Skills/Iron Resolve.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -7801,7 +7801,7 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Compressed
-/build:Tactics and Skills/Diffusion.png
+/build:Tactics and Skills/Iron Resolve.png
 
 #begin Tactics and Skills/EMP Pulse.png
 /importer:TextureImporter
