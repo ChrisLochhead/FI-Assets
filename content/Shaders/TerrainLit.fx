@@ -22,7 +22,7 @@ float Strength;       // how far the normal tilts (1 = as authored)
 float Specular;       // small glint on wet/ice surfaces, 0 = off
 
 Texture2D SpriteTexture;
-sampler2D SpriteTextureSampler = sampler_state
+sampler2D SpriteTextureSampler : register(s0) = sampler_state
 {
     Texture = <SpriteTexture>;
     MinFilter = Linear;
