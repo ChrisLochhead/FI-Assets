@@ -50,6 +50,7 @@ float Grounded;    // 1 = light, tint and grime the art (round 6); 0 = the plain
 float3 Biome;      // the biome's ground colour (GroundingMath.BiomeColor)
 float3 Dirt;       // the biome's worn-ground colour (GroundingMath.DirtColor)
 float BiomeTint;   // share of the way toward the biome colour
+float4 FactionLight; // the owner's light (rgb) for the art's red windows; w = 0 leaves them red
 float Grime;       // 0..1 brightness variation and dirt on the art (platforms, pads)
 float2 SunDir;     // toward the sun on screen (normalised)
 float2 RimStep;    // the lit / shaded rim probe, sprite UV
@@ -164,8 +165,12 @@ float4 InkPS(PSInput input) : COLOR0
 {
     float2 p = SpriteUV(input.TexCoord);
     float2 inside = step(0.0, p) * step(p, 1.0);
-    float4 art = tex2D(SpriteTextureSampler, p) * (inside.x * inside.y) * input.Color;
+    float4 src = tex2D(SpriteTextureSampler, p) * (inside.x * inside.y);
+    float4 art = src * input.Color;
     art.rgb = lerp(art.rgb, GroundArt(art.rgb, art.a, p), Grounded);
+    // Red lights only: well clear of both other channels, so brick, rust, orange fire and gold stay as painted.
+    float hot = saturate((src.r - 1.75 * max(src.g, src.b)) * 5.0) * FactionLight.w;
+    art.rgb = lerp(art.rgb, FactionLight.rgb * saturate(src.r * 1.2) * input.Color.rgb, hot);
 
     float m = max(art.a, SoftDilate(p, Step));
     float o = smoothstep(CoverLo, CoverHi, m) * InkAlpha * input.Color.a;
