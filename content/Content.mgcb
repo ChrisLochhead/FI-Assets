@@ -117,6 +117,18 @@
 /processorParam:TextureFormat=Compressed
 /build:Main menu/Foreground.png
 
+#begin Main menu/Background2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=False
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Main menu/Background2.png
+
 #begin Main menu/Campaign.png
 /importer:TextureImporter
 /processor:TextureProcessor
