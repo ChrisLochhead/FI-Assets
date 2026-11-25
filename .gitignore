@@ -1,3 +1,6 @@
 
 # originals of the backgrounds resampled to power-of-two on 2026-09-19 (git history has them too)
 _originals_pre_pot/
+
+# macOS Finder metadata
+.DS_Store
